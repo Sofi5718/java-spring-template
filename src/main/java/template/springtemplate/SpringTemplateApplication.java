@@ -12,10 +12,10 @@ public class SpringTemplateApplication {
         SpringApplication.run(SpringTemplateApplication.class, args);
     }
 
-    @Bean
+   /* @Bean
     public CommandLineRunner importData(){
         return args -> {
 
         };
-    }
+    }*/
 }
